@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Estudante de Python
+🐍 Estudante de Python
 
 
 # 💻 Tech Stack:
