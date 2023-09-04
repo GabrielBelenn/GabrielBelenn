@@ -1,5 +1,7 @@
 # 💫 About Me:
-🐍 Estudante de Python
+💻 Estudante de ciência da computação.
+🚀 Futuro Data Science.
+
 
 
 # 💻 Tech Stack:
